@@ -14,10 +14,11 @@ Para usar este projeto, siga estas etapas:
 3. Execute o aplicativo.
 4. No menu você terá as seguintes opções:
   4.1 Inclusão de aeroportos
-  4.2 Inlcusão de vôos
-  4.3 Listar aeroportos e seus vôos
-  4.4 Excluir vôo(s)
-  4.5 Excluir aeroporto(s)
+  4.2 Inlcusão de voos
+  4.3 Listas voos
+  4.4 Listar aeroportos e seus voos
+  4.5 Excluir voo(s)
+  4.6 Excluir aeroporto(s)
 
 ## Como contribuir
 
