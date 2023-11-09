@@ -15,7 +15,7 @@ Para usar este projeto, siga estas etapas:
 4. No menu você terá as seguintes opções:
   4.1 Inclusão de aeroportos
   4.2 Inlcusão de voos
-  4.3 Listas voos
+  4.3 Listar voos
   4.4 Listar aeroportos e seus voos
   4.5 Excluir voo(s)
   4.6 Excluir aeroporto(s)
